@@ -41,6 +41,6 @@ The game ends when one player successfully aligns three symbols in a row, column
 Click the "Restart" button at any time to clear the grid and start a new game.
 Enjoy playing Tic Tac Toe, whether you're challenging a friend or testing your skills against the AI!
 
-Name: Rohit Sanap.
-Email: rohitsanap177@gmail.com.
-LinkedIn: www.linkedin.com/in/rohit-sanap-10989724a.
+**Name:** Rohit Sanap.
+**Email:** rohitsanap177@gmail.com.
+**LinkedIn:** www.linkedin.com/in/rohit-sanap-10989724a.
