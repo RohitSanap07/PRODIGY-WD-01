@@ -24,8 +24,8 @@ This project is a fully functional Tic Tac Toe game developed as part of my inte
 <ul>Playing Tic Tac Toe</ul>
 
 ### Game Modes:
-1.Play vs Player: Choose this mode to play against another person. Players take turns selecting their moves on the 3x3 grid.
-2.Play vs AI: Choose this mode to play against the computer. The AI will automatically make its move after you select yours.
+**1. Play vs Player:** Choose this mode to play against another person. Players take turns selecting their moves on the 3x3 grid.
+**2. Play vs AI:** Choose this mode to play against the computer. The AI will automatically make its move after you select yours.
 
 ### Objective:
 The goal is to align three of your symbols (either "X" or "O") in a row, column, or diagonal before your opponent does.
